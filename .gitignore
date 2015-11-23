@@ -1,0 +1,5 @@
+build/
+*.elf
+*.hex
+*.o
+*.swp
